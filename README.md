@@ -1,6 +1,6 @@
 # 歡迎來到我的GitHub！這邊是我用來放一些上課所學到的課程成果，可以看看喔~
 
-## <程式語言成果展示>
+## <程式語言進度展示>
 [HW1](https://drive.google.com/file/d/1pvg0mUKAS379Gsx7oBjBZXMM2OAe7e4y/view?usp=sharing)
 
 [HW2](https://drive.google.com/file/d/1ayDR59Tooarz4R-wITXrXN9AsFs6CwL_/view?usp=sharing)
